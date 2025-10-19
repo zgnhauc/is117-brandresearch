@@ -37,6 +37,11 @@
 ***Overall tone of Nike is characterized by empowerment, motivation, and a spirit of innovation. These characteristics also perfectly showcase the kind of archetype Nike is. The brand emphasizes action and belief, and the strong drive towards achieving dreams.***
 
 
+#### Key Messaging Themes: 
+
+
+
+### Sample Vocabulary: 
 
 
  
