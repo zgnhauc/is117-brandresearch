@@ -1,1 +1,1 @@
-The primary brand that our group is looking at is Nike. This brand currently is promoting a collaboration with sports legend Lebron James.
+The primary brand that our group is looking at is Nike. This brand currently is promoting a collaboration with sports legend Lebron James. By featuring this collaboration with an anthlete who many would consider a legend at this point lends them credibility as the go-to brand for these pros. Lebron James lends the brand authority as he is an established player of professional basketball. 
