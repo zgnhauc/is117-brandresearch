@@ -4,7 +4,7 @@
 
 ### Annie
 - Topic: Archetype- [docs/archetype.md](docs/archetype.md)
-- Competitor: Adidas - [docs/competitors/adidasarchetype.md](docs/competitors/adidasarchetype.md)
+- Competitor: Adidas - [docs/competitors/adidasarchetype.md](docs/competitor/adidasarchetype.md)
 
 ### Mayra
 - Topic: Persuasion- [docs/persuasion.md](docs/persuasion.md)
