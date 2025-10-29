@@ -1,7 +1,8 @@
 # Reebok's Persuasion methods
 <p> Another competitor to Nike and how their persuasion methods differ is Reebok. Their approach, by featuring a collection in collaboration with WNBA player Angel Reese is vert similar in the vein of authority as Nike's collaboration. Where these deviate is they paint her more as "the hero" and not a ruler, as we saw with Labron James. Reebok's decision to collaborate with Angel Reese comes at an oportune time as she also walked the runway for this year's Victoria's Secret Show. While Reebok and VS sell different products and have different brand archetypes (VS displaying "the lover" archetype), both of them featuring Angel Reese makes it so that shoppers in both of these markets are exposed to her and her work. Someone who watched the Victoria's Secret fashion show this year will more than likely shop from the collection or look into the models who walked the show this year. When landing upon Reese's profile and seeing she is an athlete as well, that can direct them towards her collaborations in the athletic department. As the inverse could also happen, where a fan of Women's basketball may be inclined to look up a player they've been following and notice her collaborations outside of specifically sportsware. Another collection I happened to notice that was also going on was with the TV network Bravo, featuring the cast of the reality TV drama "The Real Housewives". This collection appeals to the 'everyman', the ones who sit at home and watch/engage with reality TV content. This approach is more universal and much less lofty than Nike's collaboration with someone literally refered to as "the king". Both of these collaboration drive users to the Reebok site for very different reasons but it does help the brand feel more level with the general consumer population. 
-</p>
-<p>
-  ## Supporting Images
+
+  ## Supporting Links
   <br> 
+    <a href="https://www.reebok.com/collections/bravo-x-reebok?current=1">Reebok x BRAVO/The Real Housewives</a>
+   <a href="https://www.reebok.com/collections/angel-reese?current=1">Reebok x Angel Reese</a>
 </p>
