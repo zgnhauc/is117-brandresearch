@@ -8,4 +8,4 @@
 
 ### Mayra
 - Topic: Persuasion- [docs/persuasion.md](docs/persuasion.md)
-- Competitor: Reebok - [docs/competitors/reebokpersuasion.md](docs/competitors/reebokpersuasion.md)
+- Competitor: Reebok - [docs/competitors/reebokpersuasion.md](docs/competitor/reebokpersuation.md)
